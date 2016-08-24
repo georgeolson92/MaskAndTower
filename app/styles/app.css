@@ -1,0 +1,14 @@
+img {
+  width: 250px;
+  height: auto;
+}
+
+.tile {
+margin-bottom: 40px;
+border-bottom-width: 10px;
+border-left-width: 5px;
+border-color: grey;
+border-style: solid;
+text-align: center;
+padding: 10px;
+}
