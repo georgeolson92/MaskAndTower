@@ -1,0 +1,9 @@
+<div class="col-md-5">
+  <img class="image-detail" src={{product.image}}>
+</div>
+<div class="product-info col-md-7">
+    <h2>{{product.title}}</h2><br>
+    <h4>{{product.description}}</h4><br>
+    <h3>${{product.cost}}</h3>
+    <button {{action 'addToCart' product}}>Add to Cart</button>
+</div>

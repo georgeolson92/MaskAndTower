@@ -1,37 +1,37 @@
 { "products": [{
-  "title" : "Owl See at Hogwarts",
-  "description" : "Owl See at Hogwarts, a Harry Potter inspired casual dress. " ,
-  "image" : "assets/images/womens_hp_owl_dress.png",
+  "title" : "Owl See you at Hogwarts",
+  "description" : "Owl See you at Hogwarts, a Harry Potter inspired casual dress. " ,
+  "image" : "/assets/images/womens_hp_owl_dress.png",
   "cost" : 40,
   "gender" : "female"
 }, {
   "title" : "These Pants were made for Tolkien",
   "description" : "These Pants were made for Tolkien, and thats just what they'll do, as you wear them stylishly. Will contribute nicely to a Tolkien fan's closet." ,
-  "image" : "assets/images/mens_tolkien_pants.jpg",
+  "image" : "/assets/images/mens_tolkien_pants.jpg",
   "cost" : 30,
   "gender" : "male"
 }, {
   "title" : "Be the Death Star of any Party!",
   "description" : "Be the Death Star of any Party! You can't miss with this classy short sleeved button-down." ,
-  "image" : "assets/images/mens_sw_fighters_shirt.jpg",
+  "image" : "/assets/images/mens_sw_fighters_shirt.jpg",
   "cost" : 25,
   "gender" : "male"
 }, {
   "title" : "Picardigan",
   "description" : "Picardigan, the cardigan." ,
-  "image" : "assets/images/womens_st_picardigan_cardigan.jpg",
+  "image" : "/assets/images/womens_st_picardigan_cardigan.jpg",
   "cost" : 40,
   "gender" : "female"
 }, {
   "title" : "Gotta Tie em All",
   "description" : "Gotta Tie em All, everyone will want to pikachu in this bow-tie." ,
-  "image" : "assets/images/mens_pokemon_bowtie.jpg",
+  "image" : "/assets/images/mens_pokemon_bowtie.jpg",
   "cost" : 15,
   "gender" : "male"
 }, {
   "title" : "Dr Who's that Girl",
   "description" : "Dr Who's that Girl, a dress that you can wear through time and space." ,
-  "image" : "assets/images/womens_dw_11_dress.jpg",
+  "image" : "/assets/images/womens_dw_11_dress.jpg",
   "cost" : 45,
   "gender" : "female"
 }

@@ -1,4 +1,4 @@
-img {
+.image-tile {
   width: 250px;
   height: auto;
 }
@@ -11,4 +11,27 @@ border-color: grey;
 border-style: solid;
 text-align: center;
 padding: 10px;
+}
+
+.mask-icon {
+  max-width: 70px;
+  margin-top: 10px;
+  float: left;
+  margin-right: 20px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+}
+
+
+.image-detail {
+height: 700px;
+width: auto;
+}
+
+.product-info {
+margin-top: 200px;
+text-align: center;
+
 }
