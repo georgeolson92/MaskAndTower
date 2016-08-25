@@ -3,20 +3,27 @@
   {{#each shoppingCart.items as |item|}}
       <h4>
         <div class="row">
+          <div class="col-md-2">
+            Qty: {{item.cartQuantity}}
+          </div>
           <div class="col-md-3">
             {{item.title}}
             <hr>
+
           </div>
-          <div class="col-md-3">
+          <div class="col-md-1">
             ${{item.cost}}
             <hr>
+          </div>
+          <div class="col-md-2">
+            <button {{action 'removeFromCart' item}}>Remove</button>
           </div>
         </div>
       </h4>
   {{/each}}
   <hr>
   <div class="row">
-    <div class="col-md-2">
+    <div class="col-md-4">
     </div>
     <div class="col-md-3">
       <h2>Total: ${{shoppingCart.cartCost}}</h2>

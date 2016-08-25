@@ -5,5 +5,7 @@ export default DS.Model.extend({
   description: DS.attr(),
   image: DS.attr(),
   cost: DS.attr(),
-  gender: DS.attr()
+  gender: DS.attr(),
+  cartQuantity: DS.attr()
+
 });
